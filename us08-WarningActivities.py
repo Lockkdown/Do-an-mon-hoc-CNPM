@@ -1,0 +1,1 @@
+print("đây là cảnh báo khi thêm hoạt động cùng khung giờ")
