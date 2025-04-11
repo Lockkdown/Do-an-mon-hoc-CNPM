@@ -1,0 +1,1 @@
+print("Đây là code thêm chức năng coi thói quen thường xuyên")
